@@ -11,6 +11,7 @@ import com.rabbitmq.client.Envelope;
 import cn.itcast.rabbitmq.util.ConnectionUtil;
 /**
  * 消费者1
+ * hh
  */
 public class Recv {
     private final static String QUEUE_NAME = "direct_exchange_queue_1";
